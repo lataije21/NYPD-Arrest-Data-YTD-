@@ -1,5 +1,5 @@
 # NYPD-Arrest-Data-YTD-
-How Crime in New York City Depends on the Socia-Economic Conditions of the Arrestee
+How Crime in New York City Depends on the Socio-Economic Conditions of the Arrestee
 This is a breakdown of every arrest effected in NYC by the NYPD during the current year. This data is manually extracted every quarter and reviewed by the Office of Management Analysis and Planning. Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement. In addition, information related to suspect demographics is also included. This data can be used by the public to explore the nature of police enforcement activity. 
 
 NYPD Arrest Datafrom January 2024 - September 2024
